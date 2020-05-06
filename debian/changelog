@@ -2,6 +2,7 @@ sqlcl-package (0.1.2) UNRELEASED; urgency=medium
 
   * Drop custom source compression.
   * Bump debhelper from old 11 to 12.
+  * Set debhelper-compat version in Build-Depends.
 
  -- Debian Janitor <janitor@jelmer.uk>  Wed, 06 May 2020 00:17:05 +0000
 
